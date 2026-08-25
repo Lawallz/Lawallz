@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Olá, eu sou o Lawallz!
+# 💻 Olá, eu sou o Lawall!
 ### `Fullstack Web Developer` • `React` • `Node.js` • `PostgreSQL`
 
 </div>
@@ -25,15 +25,15 @@
 
 ### 📂 Projetos em Destaque
 
-* **01 / WEB APP (Nome do Projeto)**
-  * **O que é:** Descrição curta do seu projeto principal de front ou fullstack.
-  * **Techs:** `React` `Node.js` `PostgreSQL`
-  * **Funcionalidades:** Autenticação, consumo de API e layout responsivo.
+* **01 / WEB APP - Litoral Raro**
+  * **O que é:** Site designado para Ecommerce de vendas de tênis.
+  * **Techs:** `React` `Node.js` `PostgreSQL` `Supabase` `Tailwind CSS`
+  * **Funcionalidades:** Autenticação segura de administradores (Supabase Auth), consumo de dados em tempo real, painel CRUD completo para gestão de produtos (Adicionar, Editar e Deletar) e layout responsivo.
 
-* **02 / API & BACKEND (Nome da API)**
-  * **O que é:** API robusta para gerenciar dados e regras de negócio.
-  * **Techs:** `Node.js` `Express` `PostgreSQL`
-  * **Funcionalidades:** Rotas RESTful, tratamento de erros e migrações.
+* **02 / API & BACKEND (Supabase & Cloud Architecture)**
+  * **O que é:** Arquitetura de Backend em nuvem utilizando Supabase para gestão de dados, regras de segurança e autenticação.
+  * **Techs:** `Supabase` `PostgreSQL` `Row Level Security`  `SQL`
+  * **Funcionalidades:** Autenticação de Administradores (Supabase Auth), banco de dados relacional em tempo real, políticas de segurança restritivas (RLS) e operações CRUD completas integradas ao frontend.
 
 ---
 
