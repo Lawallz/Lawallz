@@ -1,20 +1,20 @@
 <div align="center">
 
-# 💻 Olá, eu sou o Lawall!
+#  Olá, eu sou o Lawall!
 ### `Fullstack Web Developer` • `React` • `Node.js` • `PostgreSQL`
 
 </div>
 
 ---
 
-### ⚡ Sobre mim
+###  Sobre mim
 > **Foco atual:** Aplicações web modernas, escaláveis e focadas em performance.
 > * **Core:** React, Node.js e PostgreSQL
 > * **Status:** Construindo o futuro da web e buscando evolução constante.
 
 ---
 
-### 🚀 Stack Principal & Tecnologias
+###  Stack Principal & Tecnologias
 
 * **Frontend:** `React` `Vite` `Tailwind CSS` — Componentes, hooks e SPAs dinâmicas.
 * **Backend:** `Node.js` `Express` — Arquitetura de rotas e regras de negócio.
@@ -23,7 +23,7 @@
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos em Destaque
 
 * **01 / WEB APP - Litoral Raro**
   * **O que é:** Site designado para Ecommerce de vendas de tênis.
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lawallz)
 
